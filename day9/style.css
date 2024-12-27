@@ -1,0 +1,218 @@
+nav{
+    border:1px solid black;
+    width: 50rem;
+    height: 12vh;
+    box-shadow:0px 0px 11px 0px  brown inset ,0px 0px 0px 1px black;
+    text-align: center;
+    margin:auto;
+    padding: 20px;
+    
+    
+}
+
+ .card1{
+    border: 2px solid black;
+    height:300px;
+    width:250px;
+    margin: 30px;
+    border-radius: 20px;
+    transition: 1s;
+    border-width: 0px; 
+} 
+
+.main{
+    display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+    
+}
+
+*{
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+    scrollbar-width: none;
+}
+
+div>h1{
+    text-align: center;
+    margin-top: 50%;
+}
+
+.box1{
+    background-color:lightskyblue;
+    box-shadow: 2px 0px 10px 1px black;
+}
+
+.box2{
+    background-color:lightcoral;
+    box-shadow: 2px 0px 10px 1px black;
+
+}
+
+.box3{
+    background-color:lightgray;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box4{
+    background-color:lightseagreen;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box5{
+    background-color:linen;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box6{
+    background-color:lightslategray;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box7{
+    background-color:lightcoral;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box8{
+    background-color:lightpink;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box9{
+    background-color:lemonchiffon;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box10{
+    background-color:lightcoral;
+    box-shadow: 2px 0px 10px 1px black;
+
+}.box11{
+    background-color:lightyellow;
+    box-shadow: 2px 0px 10px 1px black;
+
+}
+
+.box12{
+    background-color:lightskyblue;
+    box-shadow: 2px 0px 10px 1px black;
+}
+
+.box13{
+    background-color:lightsalmon;
+    box-shadow: 2px 0px 10px 1px black;
+}
+
+.box14{
+    background-color:lightpink;
+    box-shadow: 2px 0px 10px 1px black;
+}
+
+.box15{
+    background-color:lightslategray;
+    box-shadow: 2px 0px 10px 1px black;
+}
+
+.box16{
+    background-color:lightgreen;
+    box-shadow: 2px 0px 10px 1px black;
+}
+.box17{
+    background-color:lightcoral;
+    box-shadow: 2px 0px 10px 1px black;
+}
+.box18{
+    background-color:lightgoldenrodyellow;
+    box-shadow: 2px 0px 10px 1px black;
+}
+.box19{
+    background-color:lightseagreen;
+    box-shadow: 2px 0px 10px 1px black;
+}
+.box20{
+    background-color:lightcoral;
+    box-shadow: 2px 0px 10px 1px black;
+}
+
+.box1:hover{
+    transform: scale(1.1);
+    font-family: "Pacifico", serif;
+     
+}
+
+.box2:hover{
+    transform: scale(1.1);
+    font-family: "Bebas Neue", serif;     
+}
+.box3:hover{
+    transform: scale(1.1);
+    font-family: "Noto Sans PhagsPa", serif;
+ 
+}
+.box4:hover{
+    transform: scale(1.1);
+    font-family: "Roboto", serif;
+      
+}
+.box5:hover{
+    transform: scale(1.1);
+    font-family: "Playwrite SK Guides", serif; 
+}
+.box6:hover{
+    transform: scale(1.1);
+    font-family: "Agu Display", serif;
+}
+.box7:hover{
+    transform: scale(1.1);
+    font-family: "Rubik Vinyl", serif;   
+}
+.box8:hover{
+    transform: scale(1.1);
+    font-family: "Lobster", serif;  
+}
+.box9:hover{
+    transform: scale(1.1);
+    font-family: "Satisfy", serif;  
+}
+.box10:hover{
+    transform: scale(1.1);
+    font-family: "Caveat", serif;  
+}
+.box11:hover{
+    transform: scale(1.1);
+    font-family: "Shadows Into Light", serif;   
+}
+.box12:hover{
+    transform: scale(1.1);
+    font-family: "Rubik Mono One", serif; 
+}
+.box13:hover{
+    transform: scale(1.1);
+    font-family: "Orbitron", serif;  
+}
+.box14:hover{
+    transform: scale(1.1);
+    font-family: "Silkscreen", serif;   
+}
+.box15:hover{
+    transform: scale(1.1);
+    font-family: "Yellowtail", serif;  
+}
+.box16:hover{
+    transform: scale(1.1);
+    font-family: "Indie Flower", serif;   
+}
+.box17:hover{
+    transform: scale(1.1);
+    font-family: "Matemasie", serif;  
+}
+.box18:hover{
+    transform: scale(1.1);
+    font-family: "Sedgwick Ave Display", serif;   
+}
+.box19:hover{
+    transform: scale(1.1);
+    font-family: "Agu Display", serif;
+}
+.box20:hover{
+    transform: scale(1.1);
+    font-family: "Rubik Vinyl", serif;    
+}
+
+
+

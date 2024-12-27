@@ -1,0 +1,120 @@
+ .rrr{
+     height:9vh;
+     
+ }
+
+ body{
+    justify-content: center;
+ }
+
+ .nav{
+      position: relative;   
+}
+
+.nav1{
+position: absolute;
+top:2%;
+font-size: large;
+}
+.nav2{
+    position: absolute;
+    right:1%;
+    top: 1%;
+}
+
+.nav2>p{
+    display:inline-block ;
+    padding: 6px;
+
+    font-family: Roboto;
+    font-weight: bolder;
+
+}
+
+  .d1{
+    position: relative;
+    
+}
+.d1>p{
+    position: absolute;
+    top:40%;
+    left:35%;
+    font-size: 30px;
+    color: white;
+}
+
+.d2{
+    position: relative;
+    padding: 5px;
+    margin: 25px 0 0 10px;
+    display: inline-block;
+    
+}
+
+.s1{
+    position: absolute;
+    top:0px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+
+}
+
+.d2>img{
+    width: 300px;  
+    margin: 10px 7px 0px 0px;
+}
+
+.n1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: larger;
+}
+
+
+
+.box1,.box2,.box3,.box4,.box5{
+        width: 300px;
+        height: 420px;
+        text-align: center;
+        border-width:2px;
+        margin:1%;
+        border: 1px solid pink;
+}
+
+.g1,.t1{
+    margin-left: 20px;
+}
+        
+
+
+         .bg{
+            display:flex;
+            align-items: center;
+            flex-wrap: wrap;
+            margin-left: 20px;
+
+            } 
+
+             .bb{
+                width:90%;
+                padding: 5px;
+                border-style: none;
+            
+            }
+
+            input{
+                margin: 0%;
+                padding: 10px;
+                width:90%
+            }
+
+            .mark{
+                background-color: black;
+                color: white;
+                padding: 10px;
+                width: 150px;
+            }
+    

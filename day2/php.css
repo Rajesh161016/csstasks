@@ -1,0 +1,65 @@
+
+.block1,.block2,.block3,.block4,.block5,.block6{
+    background-color: lightpink;
+    border-radius: 15px;
+    width: 30%;
+    padding: 45px;
+    margin: 30px;
+    display: inline-block;
+}
+
+.box{
+    background-color:black;
+    border-radius:15px;
+    width: 50%;
+    padding: 5px;
+    margin-top: 10px;
+    border-width:0;
+    color:white;
+    box-shadow: 20px,solid;
+
+
+}
+.bg_container{
+background-color: black;
+text-align: center;
+
+}
+
+.card{
+    border-radius: 15px;
+    width:40%;
+    text-align: center;
+    padding: 45px;
+    margin: 15px;
+    display: inline-block;
+    font-weight: bolder;
+    color: black;
+    
+}
+
+.card2{
+    border-radius: 15px;
+    width:138px;
+    text-align: center;
+    padding: 30px;
+    margin: 40px;
+    padding-bottom: 40px;
+    display: inline-block;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}
+
+.card4{
+    background-color: orange;
+    border-radius: 15px;
+    width:30%;
+    text-align: center;
+    padding: 30px;
+    margin: 25px;
+    display: inline-block;
+    font-size: large;
+    font-weight: bolder;
+    color: black;
+}

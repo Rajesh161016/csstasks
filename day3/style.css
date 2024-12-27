@@ -1,0 +1,40 @@
+.card{
+background-color:whitesmoke;
+width: 250px;
+height: 350px;
+text-align: center;
+border-color: palevioletred;
+border-width:2px;
+border-style: solid;
+flex-direction:row;
+margin: 30px,auto;
+margin-bottom: 30px;
+margin-right:10% ;
+margin-top: 20px;
+margin-left: 10px;
+
+
+
+
+}
+.click{
+    background-color:palevioletred;
+    border-radius: 5px;
+    padding: 8px;
+    border-width: 0;
+    color: white;
+    width: 60%;
+    margin: 10%;
+   
+}
+
+.bg-container{
+background-image: url(html-color-codes-color-tutorials-hero.jpg);
+display:flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+padding:5px;
+}
+
+

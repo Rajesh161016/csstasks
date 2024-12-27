@@ -1,0 +1,60 @@
+.child{
+    display: flex;
+    gap:57px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    display:flex;
+    align-items: center;
+    gap:30px;
+    border-radius: 15px;
+    background-color:white;
+}
+
+
+.child2{
+display:flex;
+gap:60px;
+}
+
+input{
+    border-radius: 20px;
+    border-color: aqua;
+    padding: 3px;
+}
+
+.b1{
+    border-radius: 35px;
+    background-color: green;
+    border-style: none;
+    height: 25px;
+    width:80px;
+    color: white;
+}
+.b2{
+    border-radius: 35px;
+    height: 25px;
+    border-style: none;
+    width:80px;
+    background-color:lightskyblue ;
+    color:white;
+}
+
+.main{
+    display: flex;
+    background-color:rgb(73, 72, 72);
+    color:white;
+    overflow: scroll;
+    scrollbar-width: none;
+    padding: 5px;
+    gap:30px;
+}
+
+img{
+    width: 3%;
+}
